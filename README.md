@@ -1,4 +1,4 @@
-# Virnda Store Analysis
+# Project Name: Virnda Store Analysis
 ## Key Business Impacts
 
 1. Track overall business performance, evaluate strategy effectiveness, and monitor growth trends.
@@ -9,7 +9,7 @@
 6. Evaluate channel performance, optimize marketing and distribution strategies, and focus on the most profitable channels.
 7. Filter insights by order status and time periods to understand operational efficiency, customer behavior, and seasonality.
 
-### 🔧 Approaches
+## 🔧 Approaches Details
 1. Used Excel for Dashboard Creation Built an interactive multi-view dashboard with KPI cards (Sales, Orders, Customers), combo charts, bar charts, donut charts, and month filters for dynamic analysis.
 2. Analyzed Sales Performance Data Examined transaction patterns across dimensions including:
 + Total Sales, Total Orders, Total Customers
