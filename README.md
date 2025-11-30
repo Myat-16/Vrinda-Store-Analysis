@@ -2,7 +2,7 @@
 ## Key Business Impacts
 
 1. Track overall business performance, evaluate strategy effectiveness, and monitor growth trends.
-2. Analyze daily sales and orders to identify peak periods, forecast revenue, and optimize staffing and inventory.
+2. Analyze daily sales and orders to identify peak periods, forecast revenue, and optimize staffing.
 3. Identify high-performing regions, optimize regional resource allocation, and inform expansion decisions.
 4. Highlight high-volume transactions, identify key customer segments, and prioritize fulfillment resources.
 5. Determine top-selling and underperforming products, optimize inventory, and guide product strategy.
