@@ -20,3 +20,5 @@
 3. Analyzed Key Dimensions Examined sales by product category, channel (Amazon/Flipkart/Others), state (>80k sales, >100 orders), and daily trends.
 4. Implemented Dynamic Filtering Added month selector (Jan-Dec) and status tracking (Cancelled/Delivered/Refunded/Returned) for time-series insights.
 4. Designed KPI Framework Positioned summary metrics for quick performance assessment.
+
+<img width="1222" height="601" alt="image" src="https://github.com/user-attachments/assets/e7886541-61ea-4d66-bc8a-46cf7348a207" />
